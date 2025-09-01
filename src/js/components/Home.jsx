@@ -31,7 +31,7 @@ const Home = () => {
 	si realizamos un POST o un PUT
 	body: JSON.stringify(formData) ---> recibe un objeto
 
-JSON.stringify(obj) ---> convertir a string un objeto JS
+    JSON.stringify(obj) ---> convertir a string un objeto JS
 	
 
 	solo se necesita el objeto de opciones del fetch cuando NO sea GET 
